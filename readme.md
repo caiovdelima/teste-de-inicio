@@ -7,3 +7,5 @@
 # Novo título secundário
 
 * comando git push
+
+* comando git pull
